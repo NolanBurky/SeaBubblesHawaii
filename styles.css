@@ -1,6 +1,7 @@
 body{
   height: auto;
-  background: linear-gradient(to top, #003399 0%, #00ffff 100%) ;
+  background: linear-gradient(to top, #003399 0%, #00ffff 100%);
+  font-family: 'Lobster', cursive;
 }
 footer{
   background-color:black;
@@ -16,3 +17,18 @@ footer{
   border: inset 5px black;
 }
 button {margin-right:100px;}
+
+.bigdiv {
+  text-align: center;
+  width:50%;
+  margin: auto;
+  background-color:white;
+  border: solid 2px black;
+  border-radius: 8px;
+  padding-bottom: 10px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
